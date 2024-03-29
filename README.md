@@ -1,6 +1,6 @@
 # Accordion-Vue
 
-This is the same project as done in https://github.com/ziwei531/Accordian-React-Practice. However, it is done with Vue instead so that I can get a familiarized with Vue. So far, Vue kind of reminds me of Svelte due to its three-way structure with <script> <template> and <style scoped>. Overall, I am liking it a lot. CSS is easier since there's style scoped. Two way binding, for looping, and conditional statements are much easier to do write in Vue compared to React.
+This is the same project as done in https://github.com/ziwei531/Accordian-React-Practice. However, it is done with Vue instead so that I can get a familiarized with Vue. So far, Vue kind of reminds me of Svelte due to its three-way structure with <script> <template> and <style scoped>. Overall, I am liking it a lot. CSS is easier since there's style scoped. Two way binding, for looping, and conditional statements are much easier to write in Vue compared to React due to custom in-built syntaxes for said features, which is very convenient.
 
 # Vue 3 + TypeScript + Vite
 
